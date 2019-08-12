@@ -1,0 +1,40 @@
+#logo {
+  height: 200px;
+  vertical-align: middle;
+  margin-left: 150px;
+}
+
+#header {
+  border: dotted 7px #D79922;
+  padding 2px;
+  font-size: 62px;
+  font-family: "Optima", sans-serif;
+  margin: 10px 350px 10px 350px;
+}
+
+/*Color of language title*/
+h1{
+  padding-left: 550px;
+  color: #263441;
+  font-size: 80px;
+  font-family: "Luminari", fantasy;
+}
+
+/*Color of subheaders in page*/
+h2{
+  color: #B02525;
+  padding-right: 75px;
+
+}
+
+/*Color of paragraphs*/
+p{
+  color: #E96600;
+  font-family: "Optima", sans-serif;
+}
+
+/* body text rendering*/
+body {
+  background-color: #FFE984;
+  font-family: ;
+}
